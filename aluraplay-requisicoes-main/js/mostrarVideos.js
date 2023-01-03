@@ -2,7 +2,7 @@ import { conectaApi } from "./conectaApi.js";
 
 const lista = document.querySelector("[data-lista]");
 
-function constroiCard(titulo, descricao, url, imagem) {
+export default function constroiCard(titulo, descricao, url, imagem) {
     const video = document.createElement("li");
     video.className = "videos__item";
     video.innerHTML = `<iframe width="100%" height="72%" src="${url}"
