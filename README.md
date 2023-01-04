@@ -1,18 +1,19 @@
-### Olá! Este é um projeto da @alura produzido para estudar sobre API/server-local, no front-end! O Alura Play! ❤️
+<p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
 
-> Status do projeto: Em desenvolvimento.
+<hr>
 
-[![site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://kalebzaki4.github.io/AnimeFlix/)
+<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
+<p align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</p>
 
-![AnimeFlix GitHub stats](https://github-readme-stats.vercel.app/api?username=kalebzaki4&show_icons=true&theme=dracula)
+## Tecnologias utilizadas durante o curso
+* Javascript
+* NodeJS
+* Json-server
 
-## Tecnologias que são usadas no Alura Play:
+## Tecnologias utilizadas no projeto
+* HTML
+* CSS
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <img align="center" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-   <img align="center" alt="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-   <img align="center" alt="" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
-   
-</div>
+## Screenshots
+![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
+![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
