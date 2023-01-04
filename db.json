@@ -64,32 +64,18 @@
       "id": 9
     },
     {
-      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
-      "descricao": "1 mil visualizações",
-      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+      "titulo": "Logs no Android: boas práticas para otimização e aplicação | #AluraMais",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/viRW15_qUZw",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 10
     },
     {
-      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
-      "descricao": "1 mil visualizações",
-      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+      "titulo": "Conhecendo NestJS | #AluraMais",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/YHpG6t91oW8",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 11
-    },
-    {
-      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
-      "descricao": "1 mil visualizações",
-      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 12
-    },
-    {
-      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
-      "descricao": "1 mil visualizações",
-      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 13
     }
   ]
 }
