@@ -32,7 +32,7 @@ O Alura Play é uma plataforma de streaming de vídeos educacionais desenvolvida
 
 ## Autores
 
-- Seu Nome - [Seu GitHub](https://github.com/seu-usuario)
+- [Kalebzaki4](https://github.com/kalebzaki4)
 
 ## Licença
 
