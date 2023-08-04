@@ -1,39 +1,26 @@
-# Alura Play
+# Aluraplay Requisições 🎥🌐
 
-Este repositório contém o código fonte e os recursos utilizados no projeto Alura Play.
+Este repositório contém o projeto Aluraplay Requisições, desenvolvido como parte do curso da Alura sobre como utilizar APIs e localhost.
 
-## Descrição
+O objetivo deste projeto é fornecer uma aplicação web que permite realizar requisições a uma API externa e visualizar os resultados obtidos. Além disso, também é possível simular um servidor localhost para testar as requisições e respostas.
 
-O Alura Play é uma plataforma de streaming de vídeos educacionais desenvolvida para aprimorar o aprendizado dos usuários. Com uma ampla variedade de cursos, tutoriais e palestras, o Alura Play oferece um ambiente de aprendizagem interativo e acessível.
+## Funcionalidades 🚀
 
-## Recursos
+- Realizar requisições HTTP a uma API externa.
+- Visualizar os resultados das requisições.
+- Configurar e testar um servidor localhost.
+- Aprender sobre os conceitos de API e localhost.
 
-- Interface intuitiva e fácil de usar
-- Catálogo de cursos organizado por categorias
-- Vídeos de alta qualidade com opção de resolução
-- Recursos de busca e filtragem para encontrar conteúdos específicos
-- Histórico de visualização e favoritos para acompanhar o progresso
-- Recursos de compartilhamento em redes sociais
+## Como utilizar 📚🖥️
 
-## Tecnologias Utilizadas
+1. Faça o clone deste repositório em sua máquina local.
+2. Abra o arquivo `index.html` no seu navegador web.
+3. Utilize as opções e campos disponíveis na página para realizar as requisições desejadas e testar o servidor localhost.
 
-- HTML5
-- CSS3
-- JavaScript
-- Framework XYZ (exemplo)
+## Contribuição 🤝
 
-## Como Contribuir
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias, correções de bugs ou novas funcionalidades.
 
-1. Faça um fork deste repositório
-2. Crie um branch para a sua feature (`git checkout -b feature/nova-feature`)
-3. Commit suas mudanças (`git commit -m 'Adicionar nova feature'`)
-4. Faça push para o branch (`git push origin feature/nova-feature`)
-5. Abra um Pull Request
+## Licença 📜
 
-## Autores
-
-- [Kalebzaki4](https://github.com/kalebzaki4)
-
-## Licença
-
-Este projeto está licenciado sob a licença XYZ - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a [MIT License](LICENSE).
